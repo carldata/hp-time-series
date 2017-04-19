@@ -1,10 +1,12 @@
-# React Redux Bootstrap Typescript D3 Starter Kit
+# Highly Performant D3-based Typescript-controlled React-Redux Time Series Chart
+
+Due to relative simplicty, one can also treat this repo as a good React Redux Bootstrap Typescript D3 Starter Kit
 
 This work is influenced by the following: 
 - https://github.com/jaysoo/todomvc-redux-react-typescript
 - https://github.com/freddyrangel/playing-with-react-and-d3
 
-THIS IS UNDER DEVELOPMENT CURRENTLY (March-April 2017), YET WORKS.
+THIS IS UNDER DEVELOPMENT CURRENTLY (April-May 2017), YET IT WORKS.
  
 This is a fairly simple starter kit with the following libraries / "technologies" intermingled and playing well with each other:
 * Webpack in "production" (prod) and "development" (dev) modes
@@ -25,6 +27,12 @@ npm install
 npm run dev
 ```
 Visit [http://localhost:8080/webpack-dev-server/client/index.html](http://localhost:8080/webpack-dev-server/client/index.html) in your browser.
+
+Creating a production bundle:
+```
+npm install
+npm run prod
+```
 
 ## Additional notes
 
