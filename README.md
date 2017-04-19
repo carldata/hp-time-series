@@ -30,7 +30,6 @@ Visit [http://localhost:8080/webpack-dev-server/client/index.html](http://localh
 
 Creating a production bundle:
 ```
-npm install
 npm run prod
 ```
 
