@@ -1,4 +1,4 @@
-# Highly Performant D3-based Typescript-controlled React-Redux Time Series Chart
+# Highly Performant D3-based (from) Typescript-Compiled React-Redux Time Series Chart
 
 Due to relative simplicty, one can also treat this repo as a good React Redux Bootstrap Typescript D3 Starter Kit
 
